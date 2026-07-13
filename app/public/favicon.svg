@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .bg { fill: #BC002D; }
+      .fg { fill: #FFFFFF; }
+    </style>
+  </defs>
+  <circle cx="50" cy="50" r="48" class="bg"/>
+  <path d="M30 35 L50 25 L70 35 L70 40 L50 30 L30 40 Z" class="fg"/>
+  <path d="M35 45 L50 38 L65 45 L65 50 L50 43 L35 50 Z" class="fg"/>
+  <path d="M40 55 L50 50 L60 55 L60 75 L50 70 L40 75 Z" class="fg"/>
+</svg>
