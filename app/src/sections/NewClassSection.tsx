@@ -109,7 +109,7 @@ export default function NewClassSection() {
                 <div className="flex flex-col sm:flex-row items-start gap-3">
                   <Link
                     to="/daftar"
-                    className="btn-primary"
+                    className="btn-primary w-full sm:w-auto justify-center whitespace-nowrap text-sm min-h-[56px]"
                   >
                     Daftar untuk Kelas Baru
                     <ArrowRight size={16} />
@@ -118,7 +118,7 @@ export default function NewClassSection() {
                     href={whatsappUrl}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="btn-secondary"
+                    className="btn-secondary w-full sm:w-auto justify-center whitespace-nowrap text-sm min-h-[56px]"
                   >
                     <MessageCircle size={16} />
                     Tanyakan Ketersediaan Kelas
